@@ -1,3 +1,3 @@
 # Random Quote Machine
 
-This project was created for [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-libraries/#front-end-libraries-projects).
+This project was created for Front End Development Libraries Projects @ [freecodecamp.org](https://www.freecodecamp.org/learn/front-end-libraries/#front-end-libraries-projects).
